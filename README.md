@@ -1,0 +1,1 @@
+An improved interface between Loxone Config and Philips Hue
